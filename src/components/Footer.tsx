@@ -21,7 +21,7 @@ const Footer = () => {
               <span>GitHub</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/surya-prakash"
+              href="https://www.linkedin.com/in/surya-prakash-740a3222a/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200"
