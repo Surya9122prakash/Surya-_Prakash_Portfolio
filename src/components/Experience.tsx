@@ -4,7 +4,7 @@ import React from 'react';
 const Experience = () => {
   const experiences = [
     {
-      title: "Software Engineer III",
+      title: "Software Engineer II",
       company: "Payoda Technologies Pvt Ltd",
       period: "Mar'24 - Present",
       achievements: [
