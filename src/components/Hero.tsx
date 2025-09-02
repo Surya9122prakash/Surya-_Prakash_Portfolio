@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-48 h-48 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full mx-auto mb-8 flex items-center justify-center shadow-2xl overflow-hidden">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQHU4TdLmA4SWA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1675061738783?e=1754524800&v=beta&t=xdtc21jJKU8Iq_lT6HXE0NcZevjmCey2BliFoHHAwEo"
+                src="../../profile.jpeg"
                 alt="Surya Prakash"
                 className="w-full h-full object-cover"
               />
